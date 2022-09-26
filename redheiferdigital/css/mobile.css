@@ -1,0 +1,543 @@
+@media screen and (min-width:200px) and (max-width:683px) {
+    .up {
+        top: 0
+    }
+    .down {
+        top: 0
+    }
+    .mid {
+        top: 0
+    }
+    /* .bgvideo video {
+        display: none
+    } */
+    .home .banner_txt h2 {
+        font-size: 10em;
+        line-height: 0.5;
+        opacity: 0.2;
+        color: rgba(255, 138, 138, 0.6)
+    }
+    .home .banner_txt h1 {
+        font-size: 1.4em;
+        bottom: -80px
+    }
+    .main_banner .bgvideo:before {
+        display: none
+    }
+    .home .bgvideo .bg {
+        opacity: 0.5
+    }
+    body {
+        font-size: 90%
+    }
+    h2 span {
+        display: inline
+    }
+    .projects .container {
+        padding: 15% 0 0% 0
+    }
+    .cleints .container {
+        padding: 0 0 0% 0
+    }
+    .billow .banner_txt h1 {
+        font-size: 3em
+    }
+    .billow .banner_txt {
+        padding: 25vh 0 10vh 0 !important
+    }
+    .main_banner .banner_txt {
+        max-width: 85%;
+        padding: 45vh 0 0vh 0 !important
+    }
+    .about .main_banner .banner_txt {
+        max-width: 85%;
+        padding: 35vh 0 20vh 0 !important
+    }
+    .home .main_banner .banner_txt {
+        bottom: 50px
+    }
+    .works .main_banner .banner_txt {
+        max-width: 85%;
+        padding: 25vh 0 0vh 0 !important
+    }
+    .banner_txt h1 {
+        font-size: 2.5em
+    }
+    .banner_txt p {
+        width: 85%;
+        line-height: 1.4;
+        color: rgba(255, 255, 255, 0.66)
+    }
+    .logo img {
+        max-width: 80% !important
+    }
+    .bg .logo img {
+        max-width: 60% !important
+    }
+    .header {
+        padding: 20px 0 0 0 !important
+    }
+    .header.bg {
+        padding: 0px 0 0 0 !important
+    }
+    .header.bg .logo {
+        bottom: -10px !important;
+        height: 50px
+    }
+    .bg .button {
+        top: -32px !important
+    }
+    .section1,
+    .section3 {
+        height: auto;
+        text-align: center
+    }
+    .left {
+        width: 80%;
+        height: auto;
+        float: none;
+        margin: 0 auto;
+        padding: 50px 0 0 0;
+        position: relative
+    }
+    .left .p1 {
+        display: none
+    }
+    .left .p2 {
+        position: relative;
+        left: 0;
+        top: 0;
+        max-width: 100%
+    }
+    .right h2 {
+        text-align: center;
+        font-size: 2.5em
+    }
+    .right {
+        float: none;
+        width: 80%;
+        padding: 0 0 50px 0;
+        margin: 0 auto
+    }
+    .right p {
+        padding: 20px 0% 0 0px;
+        text-align: center;
+        font-size: 1.2em
+    }
+    .client-says-01,
+    .client-says {
+        width: 90%;
+        display: none
+    }
+    .section3 .left .p2 {
+        max-width: 80%;
+        left: 0%;
+        top: 0
+    }
+    .section3 .right {
+        padding: 50px 0 0 0
+    }
+    .section3 .left {
+        padding: 50px 0 50px 0
+    }
+    .section3.green .left .p2 {
+        max-width: 80%;
+        left: 0;
+        top: 0
+    }
+    .section3.org .left .p2 {
+        max-width: 80%;
+        left: 0;
+        top: 0
+    }
+    .mobile {
+        display: block;
+        max-width: 80%;
+        margin: 0 auto
+    }
+    .bigscreen {
+        display: none
+    }
+    .section5 li {
+        text-align: center
+    }
+    .section4 {
+        padding: 10vh 0 10vh 0 !important
+    }
+    .wedo .pad {
+        padding: 0% 0 0% 0 !important
+    }
+    .section4 h2 {
+        font-size: 1.5em;
+        max-width: 90%
+    }
+    .section4 li {
+        width: 45%;
+        padding: 4% 0;
+        margin: 0;
+        font-size: 0.8em
+    }
+    .section5 {
+        padding: 10vh 0 10vh 0
+    }
+    .section5 .lead p {
+        font-size: 2.2em;
+        padding: 0 6%
+    }
+    .section5 .lead p span {
+        padding: 10px 0 0 0
+    }
+    .group {
+        margin: 20px 0 0;
+        width: 100%
+    }
+    .section5 ul {
+        width: 100%
+    }
+    .section5 ul:last-child {
+        width: 100%;
+        float: left;
+        text-align: left
+    }
+    .footer .rt {
+        width: 100%
+    }
+    .footer .lt {
+        display: none
+    }
+    .footer .rt .set {
+        width: 100%
+    }
+    .inner .main_banner video {
+        width: 280%;
+        left: 0%
+    }
+    .inner .small h1 {
+        font-size: 2em;
+        padding: 0 5%
+    }
+    .name {
+        box-shadow: none
+    }
+    .name-caption {
+        width: 100%
+    }
+    .name-caption p {
+        width: 80%;
+        padding: 15% 10% 70px 10% !important;
+        font-size: 1.5em;
+        line-height: 1.3
+    }
+    .green-logo {
+        top: 0;
+        width: 100%
+    }
+    .green-logo img {
+        max-width: 100%
+    }
+    .inner .section4 h2 {
+        font-size: 1.5em;
+        max-width: 90%;
+        padding: 0 2%
+    }
+    .inner .section4 h2 span {
+        display: inline
+    }
+    .banner3,
+    .contact-bg {
+        background-attachment: scroll
+    }
+    .banner1 {
+        width: 100%;
+        box-shadow: none;
+        padding: 0
+    }
+    .banner1 .text p {
+        padding: 8% 10%;
+        font-size: 1.4em;
+        width: 80%;
+        line-height: 1.4
+    }
+    .banner1 .text {
+        width: 90%;
+        padding: 0 0 20px 0;
+        bottom: 40px;
+        position: relative
+    }
+    .banner3 .text p {
+        font-size: 1.4em;
+        padding: 20px 5% 80px 0% !important
+    }
+    .dark {
+        box-shadow: none;
+        padding: 0;
+        width: 100%
+    }
+    .cleints img {
+        padding: 0.5%;
+        max-width: 30%
+    }
+    .banner3 .text {
+        background: #fff;
+        width: 70%
+    }
+    .banner3 p {
+        font-size: 0.9em
+    }
+    .cleints {
+        padding: 30px 0 70px 0
+    }
+    .contactpage .small h1 {
+        padding: 0 0 0px 0;
+        font-size: 1.6em
+    }
+    .inner .main_banner {
+        height: auto
+    }
+    .about .main_banner {
+        height: 600px
+    }
+    .c1 {
+        position: relative;
+        width: 100%;
+        height: 90vh
+    }
+    .c2 {
+        position: relative;
+        top: 0;
+        width: 100%;
+        height: 30vh
+    }
+    .c1 h1 {
+        padding: 20vh 10%
+    }
+    .c2 .bgvideo {
+        left: 0%
+    }
+    .c2 .bgvideo video {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .row {
+        width: 100%
+    }
+    .work1 {
+        top: 0
+    }
+    .rb,
+    .ac,
+    .dc,
+    .sg,
+    .work3,
+    .ayurveda img,
+    .vd,
+    .ayurveda {
+        top: 0;
+        position: relative
+    }
+    .inner h2 {
+        font-size: 2em;
+        padding: 0 2%
+    }
+    .inner p {
+        padding: 40px 5% 80px 5%
+    }
+    .responsive .container {
+        max-width: 1000px;
+        padding: 0 0 8% 0
+    }
+    .colorgreen,
+    .yellow1,
+    .color6,
+    .color1,
+    .color7,
+    .color8,
+    .color9,
+    .color10,
+    .color11,
+    .colororg,
+    .colorse,
+    .colormcx {
+        -webkit-box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1);
+        -moz-box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1);
+        box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1)
+    }
+    .responsive h3,
+    .responsive.colorgreen h3 {
+        display: none
+    }
+    .project-detailed img {
+        max-width: 80%
+    }
+    .wine-de2 {
+        position: relative;
+        left: -20%;
+        top: 0;
+        max-width: 130% !important;
+        margin: 20px 0 0 0;
+        z-index: 1
+    }
+    .wine-de {
+        position: relative;
+        left: 0%;
+        top: 0px;
+        max-width: 150% !important;
+        z-index: 2
+    }
+    .color3 .detailed1 {
+        position: relative;
+        left: -150px;
+        max-width: 111%
+    }
+    .color3 .detailed2 {
+        position: absolute;
+        right: -30px;
+        bottom: -30px;
+        max-width: 70%;
+        left: auto
+    }
+    .footer .container {
+        width: 75%
+    }
+    .innerayur .img1 {
+        position: relative;
+        top: 0;
+        left: -50px;
+        max-width: 100%
+    }
+    .innerayur .img2 {
+        position: relative;
+        top: 20px;
+        left: 40px;
+        max-width: 100%
+    }
+    .ayurbg {
+        padding: 5% 0 10% 0
+    }
+    .detailed4 {
+        left: -10px;
+        bottom: 0px
+    }
+    .banner-vd img {
+        max-width: 170%;
+        margin: 0 -67%
+    }
+    .project-detailed img {
+        max-width: 100%
+    }
+    .set_hove {
+        display: block
+    }
+    .ptok-banner img,
+    .acbc-banner img {
+        margin: 0 -36%
+    }
+    .one,
+    .two,
+    .three,
+    .four,.five {
+        width: 85%;
+        top: 0;
+        align-items: baseline;
+        padding: 0 0 0 15%
+    }
+    .one:hover,
+    .two:hover,
+    .three:hover,
+    .four:hover,.five:hover {
+        width: 100%
+    }
+    .recipe-wrapper span {
+        padding: 0 5%;
+        width: 90%
+    }
+    .recipe-wrapper .pie-photo {
+        max-width: 45%
+    }
+    .pie-serving p {
+        font-size: 1.1em;
+        padding: 0 !important
+    }
+    .pie-name {
+        font-size: 5em
+    }
+    .recipe-wrapper .recipe-page {
+        display: none
+    }
+    .recipe-wrapper .navigation {
+        right: 40px;
+        bottom: 6%;
+        font-size: 40px
+    }
+    .set_hove h2 {
+        padding: 0 0 20px 0
+    }
+    .contactpage .main_banner video {
+        width: 250%;
+        left: -80%
+    }
+    .about .bgvideo {
+        height: 600px
+    }
+    .contactpage .bgvideo {
+        height: 600px
+    }
+    .contactpage .main_banner {
+        height: 600px
+    }
+    .contactpage .main_banner .banner_txt {
+        padding: 10vh 0 0 0 !important
+    }
+    .contactpage .dark {
+        padding: 5vh 5%;
+        width: 90%
+    }
+    .main-carousel {
+        max-width: 90%;
+        padding: 5%
+    }
+    .main-carousel h3 {
+        max-width: 95%
+    }
+    .process-area .carousel-cell h4 {
+        font-size: 3em;
+        letter-spacing: 0
+    }
+    .process-area .carousel-cell p {
+        font-size: 1.4em
+    }
+    .tab {
+        padding: 10px 0 50px 0
+    }
+    .process-area .carousel-cell h4 span {
+        top: 10px;
+        font-size: 0.5em;
+        margin-bottom: 15px;
+
+    }
+    .process-area .carousel-cell img {
+        max-width: 45%
+    }
+    .mcx .left .p2 {
+        top: 0
+    }
+    video {
+        opacity: 1
+    }
+    .arrow {
+        bottom: 30px;
+        right: -30px
+    }
+    .inner .bgvideo{
+        height: 100%;
+    }
+    .banner_txt h3{
+        font-size: 2em;
+    }
+    .contactpage h1 span{
+        font-size: 15px;
+        margin: 5px;
+        padding: 10px 15px;
+    }
+}

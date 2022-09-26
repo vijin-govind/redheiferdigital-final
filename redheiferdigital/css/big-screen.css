@@ -1,0 +1,11 @@
+@media screen and (min-width:1025px) and (max-width:1600px) {
+    body {
+        font-size: 80%
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width:1400px) {
+    .home .main_banner .banner_txt h1 {
+        bottom: 60px
+    }
+}

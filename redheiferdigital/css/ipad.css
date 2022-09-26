@@ -1,0 +1,492 @@
+@media screen and (min-width:684px) and (max-width:1200px) {
+    body {
+        font-size: 90%
+    }
+    h2 span {
+        display: inline
+    }
+    .main_banner .banner_txt {
+        max-width: 85%;
+        padding: 30vh 0 10vh 0
+    }
+    .home .main_banner {
+        height: 100vh
+    }
+    .home .main_banner .banner_txt {
+        bottom: -34vh
+    }
+    .home .banner_txt h2 {
+        font-size: 10em;
+        line-height: 0.5;
+        opacity: 0.2;
+        color: rgba(255, 138, 138, 0.6)
+    }
+    .main_banner video {
+        height: 100%;
+    }
+    .banner_txt h1 {
+        font-size: 2.5em;
+    }
+    .home .banner_txt h1 {
+        font-size: 1.8em;
+        bottom: -80px
+    }
+    .banner_txt p {
+        width: 85%
+    }
+    .logo img {
+        max-width: 100% !important
+    }
+    .bg .logo img {
+        max-width: 60% !important
+    }
+    .header {
+        padding: 20px 0 0 0 !important
+    }
+    .header.bg {
+        padding: 0px 0 0 0 !important
+    }
+    .header.bg .logo {
+        bottom: -10px !important;
+        height: 50px
+    }
+    .bg .button {
+        top: -32px !important
+    }
+    .section1,
+    .section3 {
+        height: auto;
+        text-align: center
+    }
+    .left {
+        width: 80%;
+        height: auto;
+        float: none;
+        margin: 0 auto;
+        padding: 50px 0 0 0;
+        position: relative
+    }
+    .left .p1 {
+        display: none
+    }
+    .left .p2 {
+        position: relative;
+        left: 0;
+        top: 0;
+        max-width: 100%
+    }
+    .right h2 {
+        text-align: center;
+        font-size: 2.5em
+    }
+    .right {
+        float: none;
+        width: 80%;
+        padding: 0 0 50px 0;
+        margin: 0 auto
+    }
+    .right p {
+        padding: 20px 0% 0 0px;
+        text-align: center;
+        font-size: 1.2em
+    }
+    .client-says-01,
+    .client-says {
+        width: 90%;
+        display: none
+    }
+    .section3 .left .p2 {
+        max-width: 80%;
+        left: 0%;
+        top: 0
+    }
+    .section3 .right {
+        padding: 50px 0 0 0
+    }
+    .section3 .left {
+        padding: 50px 0 50px 0
+    }
+    .section3.green .left .p2 {
+        max-width: 80%;
+        left: 0;
+        top: 0
+    }
+    .section3.org .left .p2 {
+        max-width: 80%;
+        left: 0;
+        top: 0
+    }
+    .mobile {
+        display: block;
+        max-width: 80%;
+        margin: 0 auto
+    }
+    .bigscreen {
+        display: none
+    }
+    .section4 {
+        padding: 10vh 0 10vh 0
+    }
+    .section4 h2 {
+        font-size: 1.2em;
+        max-width: 90%
+    }
+    .wedo .pad {
+        padding: 0% 0 0% 0 !important
+    }
+    .section4 li {
+        width: 45%;
+        padding: 4% 0;
+        margin: 0;
+        font-size: 0.8em
+    }
+    .section5 .lead p {
+        font-size: 2.4em
+    }
+    .section5 .lead p span {
+        padding: 10px 0 0 0
+    }
+    .group {
+        margin: 20px 0 0;
+        width: 100%
+    }
+    .section5 ul {
+        width: 100%
+    }
+    .section5 ul:last-child {
+        width: 100%;
+        float: left;
+        text-align: left
+    }
+    .footer .rt {
+        width: 100%
+    }
+    .inner .bgvideo {
+        height: 600px
+    }
+    .footer .lt {
+        display: none
+    }
+    .footer .rt .set {
+        width: 45%
+    }
+    .inner .main_banner video {
+        width: 120%;
+        left: 0%
+    }
+    .inner .small h1 {
+        font-size: 2em
+    }
+    .inner .name-caption p {
+        width: 60%;
+        padding: 15% 20% 70px 20%;
+        font-size: 1.5em;
+        line-height: 1.4
+    }
+    .green-logo img {
+        max-width: 100%
+    }
+    .inner .section4 h2 {
+        font-size: 2.1em;
+        max-width: 90%;
+        padding: 0 2%
+    }
+    .inner .section4 h2 span {
+        display: inline
+    }
+    .works .main_banner {
+        height: auto !important
+    }
+    .banner1 {
+        width: 100%;
+        padding: 0;
+        -webkit-box-shadow: inset 0px 145px 0px 0px rgba(255, 255, 255, 1);
+        -moz-box-shadow: inset 0px 145px 0px 0px rgba(255, 255, 255, 1);
+        box-shadow: inset 0px 145px 0px 0px rgba(255, 255, 255, 1)
+    }
+    .banner1 img {
+        width: 90%;
+        padding: 0
+    }
+    .banner1 .text p {
+        padding: 8% 15%;
+        font-size: 1.5em;
+        line-height: 1.4;
+        width: 70%
+    }
+    .banner1 .text {
+        width: 70%;
+        padding: 0 0 20px 0;
+        bottom: 100px;
+        left: 20%;
+        position: relative
+    }
+    .dark {
+        box-shadow: none;
+        padding: 0 10%;
+        width: 80%
+    }
+    .cleints img {
+        padding: 0.5%;
+        max-width: 30%
+    }
+    .banner3 .text {
+        background: #fff;
+        width: 70%
+    }
+    .contactpage .dark {
+        background: #f5f5ee;
+        padding: 0 10%;
+        width: 80%;
+        box-shadow: none
+    }
+    .set_hove h2 {
+        padding: 0 0 10px 0 !important
+    }
+    .banner3 p {
+        font-size: 1.1em;
+        padding: 20px 5% 20px 0% !important
+    }
+    .cleints {
+        padding: 100px 0 120px 0
+    }
+    .inner .main_banner {
+        height: 600px
+    }
+    .contactpage .main_banner .banner_txt {
+        padding: 10vh 0 0vh 0
+    }
+    .contactpage .main_banner video {
+        width: 120%;
+        left: -16%;
+        top: 0
+    }
+    .c1 {
+        height: 600px
+    }
+    .c2 {
+        height: 600px
+    }
+    .wedo .main_banner {
+        height: 600px
+    }
+    .c1 h1 {
+        font-size: 1.6em;
+        padding: 15vh 20%
+    }
+    .inner h2 {
+        font-size: 2em;
+        padding: 0 20%
+    }
+    .inner p {
+        padding: 40px 10% 80px 10%
+    }
+    .projects p {
+        padding: 20px 10% 80px 10%
+    }
+    .responsive .container {
+        max-width: 1000px;
+        padding: 0 0 8% 0
+    }
+    .colorgreen,
+    .yellow1,
+    .color6,
+    .color1,
+    .color7,
+    .color8,
+    .color9 {
+        -webkit-box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1);
+        -moz-box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1);
+        box-shadow: inset 0px 65px 0px 0px rgba(255, 255, 255, 1)
+    }
+    .responsive h3 {
+        display: none
+    }
+    .project-detailed img {
+        max-width: 80%
+    }
+    .wine-de2 {
+        position: relative;
+        left: -20%;
+        top: 0;
+        max-width: 130% !important;
+        margin: 20px 0 0 0;
+        z-index: 1
+    }
+    .wine-de {
+        position: relative;
+        left: 0%;
+        top: 0px;
+        max-width: 150% !important;
+        z-index: 2
+    }
+    .color3 .detailed1 {
+        position: relative;
+        left: -150px;
+        max-width: 111%
+    }
+    .color3 .detailed2 {
+        position: absolute;
+        right: -30px;
+        bottom: -30px;
+        max-width: 70%;
+        left: auto
+    }
+    .footer .container {
+        width: 75%
+    }
+    .innerayur .img1 {
+        position: relative;
+        top: 0;
+        left: -50px;
+        max-width: 100%
+    }
+    .innerayur .img2 {
+        position: relative;
+        top: 20px;
+        left: 40px;
+        max-width: 100%
+    }
+    .ayurbg {
+        padding: 5% 0 10% 0
+    }
+    .detailed4 {
+        left: -10px;
+        bottom: 0px
+    }
+    .banner-vd img {
+        max-width: 170%;
+        margin: 0 -67%
+    }
+    .project-detailed img {
+        max-width: 100%
+    }
+    .set_hove {
+        display: block
+    }
+    .ptok-banner img,
+    .acbc-banner img {
+        margin: 0 -36%
+    }
+    .one,
+    .two,
+    .three,
+    .four,.five {
+        width: 40%;
+        float: left;
+        top: 0;
+        padding: 0 0 0 10%;
+        align-items: baseline
+    }
+    .one:hover,
+    .two:hover,
+    .three:hover,
+    .four:hover,.five:hover {
+        width: 40%
+    }
+    .recipe-wrapper span {
+        padding: 0 5%;
+        width: 90%
+    }
+    .recipe-wrapper .pie-photo {
+        max-width: 20%
+    }
+    .pie-serving p {
+        font-size: 1.3em;
+        padding: 0 !important
+    }
+    .pie-name {
+        font-size: 5em
+    }
+    .recipe-wrapper .recipe-page {
+        display: none
+    }
+    .recipe-wrapper .navigation {
+        right: 40px;
+        bottom: 10%;
+        font-size: 40px
+    }
+    .banner3,
+    .contact-bg {
+        background-attachment: scroll
+    }
+    .cleints .container {
+        padding: 0 0 0% 0
+    }
+    .row {
+        width: 29%
+    }
+    .section-works {
+        padding: 4% 5% 10% 5% !important
+    }
+    .row img {
+        width: 100%;
+        margin: 10px 0
+    }
+    .work3,
+    .work2,
+    .work1 {
+        margin: 10px 0
+    }
+    .work2 a {
+        bottom: 20px;
+        left: 20px;
+        font-size: 0.6em
+    }
+    .work2 {
+        height: 200px
+    }
+    .main-carousel h3 {
+        max-width: 75%
+    }
+    .process-area .carousel-cell h4 {
+        font-size: 5em
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width:1280px) {
+    .wedo .main_banner video {
+        opacity: 0.2 !important;
+        width: 100%
+    }
+    .about .small h1 {
+        text-align: center;
+        font-size: 3em;
+        padding: 0 15%;
+        line-height: 1.1
+    }
+    .about .main_banner video {
+        opacity: 0.2 !important;
+        width: 150%
+    }
+    .inner .section4 h2 {
+        font-size: 2.3em
+    }
+    .section4 h2 {
+        font-size: 2.3em
+    }
+    .work2 a {
+        bottom: 20px;
+        left: 20px;
+        font-size: 0.6em
+    }
+    .work2 {
+        height: 200px
+    }
+    video {
+        opacity: 1
+    }
+}
+
+@media screen and (min-width:684px) and (max-width:1025px) {
+    .wedo .main_banner video {
+        opacity: 0.2 !important;
+        width: 100%
+    }
+}
+
+@media screen and (min-width:684px) and (max-width:1500px) {
+    .section-works {
+        padding: 4% 10% 10% 10%
+    }
+}
